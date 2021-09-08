@@ -1,0 +1,26 @@
+.bg-muted{
+    background-color:#6c757d!important;
+    color: white;
+}
+.text-gray-2{
+    color: #bababa;
+}
+.rounded-i{
+    border-radius: 6em!important;
+    text-align: center;
+}
+.footer-social{
+    border-radius: 6em;
+    margin-right: 6%;
+}
+.footer-body li{
+    list-style-type: none;
+    color: #bababa;
+    text-decoration: none !important;
+}
+.footer-body li>a{
+    text-decoration: none !important;
+}
+.footer-body li>a:hover{
+    color: white;
+}
